@@ -1,0 +1,21 @@
+Download jar files zip from given link:
+	https://jar-download.com/artifacts/junit/junit/4.12/source-code
+
+Extract zip file.
+Right click on project.
+Click on properties.
+Java Build Path.
+Click on Libraries.
+Add External Jar.
+Select both hamcrest and junit jar files.
+After selecting jar, click apply and close.
+
+
+Create UserTest.java
+Create Calculator.java
+Create CalculatorTest.java
+Create CombinedTest.java
+
+
+
+
