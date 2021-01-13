@@ -1,0 +1,63 @@
+DAO Pattern
+
+D - Data
+A - Access
+O - Object
+
+
+Model
+	User(Java Class)
+		username
+		email
+		password
+		getters and setters
+
+User Operations
+
+	UserDAO(Interface)
+		addUser()
+		updateUser()
+		deleteUser()
+		displayUsers()
+
+
+User Implementation
+
+	UserDAOImpl(Java Class)
+		addUser()	
+		updateUser()
+		deleteUser()
+		displayUsers()
+
+
+Download & install MYSQL:
+	https://docs.google.com/uc?export=download&id=0B-9Vl9hXQBBhb0ZBdDdHTUhKVW8
+
+
+Open mysql:
+	1) Insert password
+	2) write create database database_name;
+	3) write use database_name;	
+	4) Create your table:
+
+		create table users
+		(
+			username varchar(20) primary key,
+			email varchar(40),
+			password varchar(40)
+		)		
+
+
+Download MySQL Jar from following link:
+	https://mvnrepository.com/artifact/mysql/mysql-connector-java/5.0.5
+
+Keep the jar file in D or E drive, somewhere it is easily accessible.
+Right on project.
+Click on properties.
+Click on java build path.
+Click on libraries.
+Click on add external jars.
+Select jar file and hit enter.
+Apply and close.
+	
+		

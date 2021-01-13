@@ -1,0 +1,75 @@
+Test Driven Programming in java
+
+	Here in this module we are going to write java code
+	and later test it using some junit codes.
+	
+	There are different type of testing:
+
+	1) Black Box Testing
+		Black box testers are the software tester who
+		use softwares to test entire application.
+	
+		They are not testing each line of a code/statement.
+		They are testing overall functionality of an app.
+
+		1) System Testing
+		2) Regression Testing
+		3) Performance Testing
+		4) Acceptance Testing
+
+
+	2) White Box Testing
+
+		In White box testing we should have good knowledge of
+		coding.
+		Here we test each statement/module of an app.
+		White box is also known as glass box testing.
+
+		1) Unit Testing
+		2) Integration Testing
+		3) Regression Testing
+		4) Performance Testing
+
+
+
+	Test overall software functionality
+		Check whole software
+		
+	Test code (modules)
+		Check whether your function or whole
+		file is working properly or not.
+
+	Debugging 
+		Check your code line by line to find error
+		or to understand the code.
+
+
+	
+
+	STLC (Software Testing Life Cycle)
+	
+	1) Requirement Analysis
+	2) Test Planning
+	3) Test Environment Setup
+	4) Test case development
+	5) Test Execution	
+		FixError
+	6) Test Closure
+
+
+Junit Testing:
+
+JDK
+	https://drive.google.com/file/d/1_GbtniyizXQOmHOfxs2krXJo3-cAkkyV/view?usp=sharing
+
+Download Eclipse zip file from below link and extract it.
+
+	https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2020-03/R/eclipse-jee-2020-03-R-incubation-win32-x86_64.zip
+
+
+	
+	
+
+
+	
+	
